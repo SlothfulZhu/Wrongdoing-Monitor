@@ -3,10 +3,10 @@ Pytorch based implemention of Relational Temporal Attentive Graph NeuralNetworks
 
 
 
-##Requirements
+## Requirements
 
 
-##Usage
+## Usage
 
 
-##Cite
+## Cite
