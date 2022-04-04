@@ -19,6 +19,9 @@ This is an example implementation (on Darknet dataset) of our work in Wrongdoing
 
 * xgboost
 
+## Descriptions of  The Selected Properties
+
+The detail of the selected properties are shown in Properties_Detail.pdf.
 
 ## Using The Code
 
