@@ -30,7 +30,7 @@ In the first step, we  provide a preprocessing process for Darknet dataset。
 In the second step, we provide two representative network representation learning algorithms (GTN and MARINE) to obtain the property representations.
 Note that some network representation learning algorithms need to input the graph whoes nodes are numbered from 0. It may be necessary to simply change the node_id before running the second step.
 In one execution, you only need to select the version corresponding to one algorithm.
-Later, we will provide other examples in the paper。
+
 
 ## Datasets
 
