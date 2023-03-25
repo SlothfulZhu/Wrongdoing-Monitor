@@ -31,7 +31,7 @@ In the second step, we provide two representative network representation learnin
 Note that some network representation learning algorithms need to input the graph whoes nodes are numbered from 0. It may be necessary to simply change the node_id before running the second step.
 In one execution, you only need to select the version corresponding to one algorithm.
 
-Please note that we may need to encode the data before performing the second step since the inputs to many network representation learning algorithms are sequence numbers starting from 0. Please  refer to the document "1_encode_node_darknet.py".
+Please note that we may need to encode the data before performing the second step since the inputs to many network representation learning algorithms are sequence numbers starting from 0. 
 You can refer to the document "1_encode_node_darknet.py" to encode your data to adapt it to the subsequent network representation learning algorithms.
 
 
