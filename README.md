@@ -45,5 +45,18 @@ The datasets used in our paper can be found by following this link:
 * CICDDoS: [https://www.unb.ca/cic/datasets/ddos-2019.html](https://www.unb.ca/cic/datasets/ddos-2019.html)
 
 ## Citation
-Waiting for update.
+
+
+@article{DBLP:journals/tifs/WangZ22,
+  author    = {Cheng Wang and
+               Hangyu Zhu},
+  title     = {Wrongdoing Monitor: {A} Graph-Based Behavioral Anomaly Detection in
+               Cyber Security},
+  journal   = {{IEEE}  Transactions on Information Forensics and Security },
+  volume    = {17},
+  pages     = {2703--2718},
+  year      = {2022}
+}
+
+
 
